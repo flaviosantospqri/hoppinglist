@@ -1,0 +1,4 @@
+Product{nameProduct='TV LED', value=1290.99, quantity=1, Total=1290.99}
+Product{nameProduct='Video Game Chair', value=350.5, quantity=3, Total=1051.5}
+Product{nameProduct='Iphone X', value=900.0, quantity=2, Total=1800.0}
+Product{nameProduct='Samsung Galaxy 9', value=850.0, quantity=2, Total=1700.0}
